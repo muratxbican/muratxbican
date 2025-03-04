@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/muratbicann" target="blank"><img src="https://img.shields.io/twitter/follow/muratbicann?logo=twitter&style=for-the-badge" alt="muratbicann" /></a> </p>
 
-- 🔭 I’m currently working on [FanSociable](https://fansociable.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
